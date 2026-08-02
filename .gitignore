@@ -1,0 +1,18 @@
+# ROS/catkin build outputs
+build/
+devel/
+install/
+logs/
+.catkin_tools/
+
+# ROS data recordings and generated artifacts
+*.bag
+*.db3
+*.pyc
+__pycache__/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
